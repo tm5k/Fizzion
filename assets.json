@@ -1,5 +1,5 @@
 {
-    "version": "v1.6.12",
+    "version": "v1.0.0",
     "gun smoke": {
         "pink": "5c4932441500b62a3218bbbabe45a117",
         "blue": "38342d3214ad04067e03106bdff41914",
@@ -1229,6 +1229,9 @@
             "furro": "329b1ec740916e4a045904dddec414ff"
         },
         "custom": {
+			"star of david": "fe456c54d5bac118584979a9a49c2f92",
+			"nepunator": "e2c4938dfa3da81fd4c5774e7b4dfa26",
+			"nepunator furro": "ebb916fd463f15346e7a0ea509a3a000",
             "upsidedown ekp": "16ab2e4e301ea89f46263250657f9b94",
             "digi threat": "32a599014ec1e056abdd5f9e8059dca3",
             "yolo": "4bee1c8a394923bee7078462a27db7a7",
@@ -1243,11 +1246,16 @@
     },
     "ballistics tracker": {
         "default": "0847bd551fe2cbe953a3c3670eac79b1",
+		"skibidi dj": "202261b140930b9e023531d3f2dd2b26",
         "anti": "6c73f3042cd7ecdb452e51cb45ad9124",
         "subway surfers": "e440d172e14e9cb770bad88ced352329",
         "ss no ui": "98d7915b82775d80f28153504955234e"
     },
     "skins": {
+		"custom": {
+			"cilantrio": "058e54ef5ad3fb914c34a6f446a36702",
+			"fempire": "bc03088c869f40e79db8fa91525ae921"
+		},
         "cats": {
             "rainbow cat": "1e69d7d4cd36a25ac8980ea21f598d17",
             "cat1": "7b0f3ec58ab15a927b750b8704dfd8b5",

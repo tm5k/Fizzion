@@ -1,8 +1,9 @@
 @echo off
-REM v1.3.2
+REM v1.0.0
 
 : fleasion by @cro.p
-: distributed in https://discord.gg/v9gXTuCz8B
+: modified by @tm2k
+: original distributed in https://discord.gg/v9gXTuCz8B
 : https://github.com/CroppingFlea479/Fleasion
 : script base by @8ar and modified by @3tcy
 
@@ -52,11 +53,10 @@ py -m pip install requests >nul 2>&1
 
 
 cls
-if exist %cd%\fleasion.py goto launch
-curl -sSL -o %cd%\fleasion.py https://raw.githubusercontent.com/CroppingFlea479/Fleasion/main/fleasion.py --ssl-no-revoke
+if exist %cd%\fizzion.py goto launch
 
 :launch
-py %cd%\fleasion.py if %errorlevel%==9009 goto error
+py %cd%\fizzion.py if %errorlevel%==9009 goto error
 exit /b
 
 :error
