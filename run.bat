@@ -53,10 +53,10 @@ py -m pip install requests >nul 2>&1
 
 
 cls
-if exist %cd%\fizzion.py goto launch
+if exist %cd%\fleasion.py goto launch
 
 :launch
-py %cd%\fizzion.py if %errorlevel%==9009 goto error
+py %cd%\fleasion.py if %errorlevel%==9009 goto error
 exit /b
 
 :error
