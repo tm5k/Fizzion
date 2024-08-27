@@ -1,4 +1,4 @@
-Fork of https://github.com/CroppingFlea479/Fleasion dedicated to expanding upon custom weapon models.
+Fork of https://github.com/CroppingFlea479/Fleasion dedicated to adding custom weapon models.
 
 For more information refer to <a href=https://github.com/CroppingFlea479/Fleasion/blob/main/README.md>Fleasion's README</a>
 
