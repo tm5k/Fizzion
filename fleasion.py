@@ -150,7 +150,7 @@ if os.path.exists(mod_cache_check_path): mod_cache = True
 if os.path.exists(mod2_cache_check_path): mod2_cache = True
 if os.path.exists(pf_cache_check_path): pf_cache = True
 
-if mod_cache == False or mod2_cache == False or pf_cache == False: print(f"{RED}Missing cache, join prompted {'experiences' if not mod_cache or not pf_cache else 'experience'}.{DEFAULT}")
+if mod_cache == False or mod2_cache == False or pf_cache == False: print(f"{RED}Missing cache, join prompted {'experiences' if not mod_cache or not mod2_cache or not pf_cache else 'experience'}.{DEFAULT}")
 if mod_cache == False: webbrowser.open_new_tab("https://www.roblox.com/games/18504289170/texture-game")
 if mod2_cache == False: webbrowser.open_new_tab("https://www.roblox.com/games/126211372078202/Assets")
 if pf_cache == False: webbrowser.open_new_tab("https://www.roblox.com/games/292439477/Phantom-Forces")
